@@ -1,2 +1,2 @@
 # dotfiles
-Dotfiles for local setup
+Dotfiles for local setup.
